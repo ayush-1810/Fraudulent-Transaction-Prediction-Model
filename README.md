@@ -1,2 +1,1 @@
-# Fraudulent-Transaction-Prediction-Model
-Using Logistic Regression
+Fraudulent-Transaction-Prediction-Model Using Logistic Regression
